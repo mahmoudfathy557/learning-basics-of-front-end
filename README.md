@@ -1,2 +1,4 @@
 # learning basics of front-end
- my first project on github
+ my first project  github
+
+say hello to daddy ;)
